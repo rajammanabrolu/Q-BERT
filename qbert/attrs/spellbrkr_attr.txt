@@ -1,0 +1,1 @@
+unique, surface, water_room, air_room, light, no_article, concealed, vowelstart, treasure, open, visited, readable, takeable, door, toolbit, container, dry_land, vehicle, weapon, animate

@@ -1,0 +1,1 @@
+animate, absent, clothing, concealed, container, door, edible, enterable, general, light, lockable, locked, open, openable, proper, scenery, scored, static, supporter, switchable, talkable, transparent, female, pluralname, is_treasure, is_arrow, is_spell, is_scroll, is_spell_book

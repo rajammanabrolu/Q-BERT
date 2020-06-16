@@ -1,0 +1,1 @@
+indoors, animate, concealed, container, door, edible, light, lockable, locked, open, openable, proper, scenery, static, supporter, transparent, female

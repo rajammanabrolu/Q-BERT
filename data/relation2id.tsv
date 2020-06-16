@@ -1,0 +1,16 @@
+north	0
+south	1
+west	2
+east	3
+down	4
+up	5
+again	6
+northeast	7
+northwest	8
+southeast	9
+southwest	10
+enter	11
+exit	12
+in	13
+have	14
+is	15

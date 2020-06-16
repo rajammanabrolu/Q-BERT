@@ -1,0 +1,1 @@
+animate, concealed, container, door, light, lockable, locked, open, openable, proper, scenery, scored, switchable, transparent, pluggable, can_plug, aimable

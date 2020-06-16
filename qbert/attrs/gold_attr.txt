@@ -1,0 +1,1 @@
+animate, absent, clothing, concealed, container, edible, enterable, light, lockable, locked, on, open, openable, proper, scenery, static, supporter, switchable, talkable, transparent, worn, female, pluralname, npcworn, sittable, lieable

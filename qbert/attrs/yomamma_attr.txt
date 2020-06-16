@@ -1,0 +1,1 @@
+animate, clothing, concealed, container, door, enterable, light, open, openable, scenery, static, supporter, switchable, transparent, worn, female, neuter, pluralname, proper, mentioned, mark_as_room, mark_as_thing, p70_familiar, p72_near, p76_lens_searchable, p77_relevant, p84_alcoholic

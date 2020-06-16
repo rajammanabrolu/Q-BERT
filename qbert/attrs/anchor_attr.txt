@@ -1,0 +1,1 @@
+animate, clothing, concealed, container, door, edible, enterable, general, light, lockable, locked, on, open, openable, proper, scenery, static, supporter, switchable, talkable, transparent, worn, female, neuter, pluralname, legible, beenunlocked, converse, seen

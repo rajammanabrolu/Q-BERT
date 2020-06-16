@@ -1,0 +1,1 @@
+animate, clothing, concealed, container, door, light, locked, open, openable, proper, scenery, scored, static, supporter, transparent, male, female, pluralname

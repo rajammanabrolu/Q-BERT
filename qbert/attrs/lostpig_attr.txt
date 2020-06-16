@@ -1,0 +1,1 @@
+burnable, burning, burnt, stone, little, animate, clothing, concealed, container, door, edible, enterable, general, light, lockable, locked, open, openable, proper, scenery, static, supporter, talkable, transparent, worn, male, neuter, pluralname

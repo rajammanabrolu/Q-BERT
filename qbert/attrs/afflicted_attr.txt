@@ -1,0 +1,1 @@
+absent, animate, clothing, concealed, container, door, edible, enterable, light, lockable, locked, on, open, openable, scenery, static, supporter, switchable, transparent, worn, female, pluralname, proper, mentioned, mark_as_room, mark_as_thing, p60_auto_searched, p62_asleep, p64_afflicted, p68_severed, p70_handed
