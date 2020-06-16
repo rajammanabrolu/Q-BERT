@@ -1,12 +1,19 @@
 # Q*BERT
 ![Q*BERT](/images/qbertpixel.png)
 
-Code accompanying paper _How to Avoid Being Eaten by a Grue:  Structured Exploration Strategies for Textual Worlds_
- by Prithviraj Ammanabrolu, Ethan Tien, Matthew Hausknecht, Mark O. Riedl
+Code accompanying paper [_How to Avoid Being Eaten by a Grue:  Structured Exploration Strategies for Textual Worlds_](https://arxiv.org/abs/2006.07409)
+ by Prithviraj Ammanabrolu, Ethan Tien, Matthew Hausknecht, and Mark O. Riedl
  
 Please use this Bibtex to cite us:
 ```
-
+@article{ammanabrolu20how,
+  title={How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds},
+  author={Ammanabrolu, Prithviraj and Tien, Ethan and Hausknecht, Matthew and Riedl, Mark O.},
+  journal={CoRR},
+  year={2020},
+  url={http://arxiv.org/abs/2006.07409},
+  volume={abs/2006.07409}
+}
 ```
  
 Structured exploration using knowledge graph A2C agents.
