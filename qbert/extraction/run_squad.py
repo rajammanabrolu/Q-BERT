@@ -498,10 +498,10 @@ def main():
     #                                    config=config,
     #                                    cache_dir=args.cache_dir if args.cache_dir else None)
     if args.do_train:
-        config = AlbertConfig.from_pretrained('albert-large-v2')
+        config = AlbertConfig.from_pretrained(args.model_name_or_path)
     else:
         config = AlbertConfig.from_pretrained(args.model_name_or_path + "/config.json")
-    tokenizer = AlbertTokenizer.from_pretrained('albert-large-v2', do_lower_case=args.do_lower_case)
+    tokenizer = AlbertTokenizer.from_pretrained(args.model_name_or_path, do_lower_case=args.do_lower_case)
     model = AlbertForQuestionAnswering.from_pretrained(args.model_name_or_path, from_tf=False, config=config)
 
     if args.local_rank == 0:
