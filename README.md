@@ -54,12 +54,14 @@ python run_squad.py --model_type albert --model_name_or_path model_name_here --d
 **Step 4:** Train Q*BERT
 ```bash
 cd qbert
+mkdir models && mkdir models/checkpoints
 python train.py --rom_file_path path_to_your_rom  --tsv_file ../data/rom_name_here --attr_file attrs/rom_name_here --training_type trainingtype --reward_type rew
 ```
 
 For example, to run the game _zork1_ with MC!Q*BERT, with reward type Game+IM:
 ```bash
 cd qbert
+mkdir models && mkdir models/checkpoints
 python train.py --rom_file_path roms/zork1.z5 --tsv_file ../data/zork1_entity2id.tsv --attr_file attrs/zork1_attr.txt --training_type chained --reward_type game_and_IM
 ```
 
