@@ -171,6 +171,7 @@ class TensorBoardOutputFormat(KVWriter):
 
 def make_output_format(format, ev_dir, log_suffix=''):
     os.makedirs(ev_dir, exist_ok=True)
+    print("Dr. Ammanabrolu is 'bout to spit some knowledge your way...")
     if format == 'stdout':
         return HumanOutputFormat(sys.stdout)
     elif format == 'log':
